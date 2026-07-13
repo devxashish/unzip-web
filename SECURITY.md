@@ -20,7 +20,7 @@ UnZip Web processes all files **entirely in the browser**. No data is ever sent 
 If you discover a security vulnerability, please report it responsibly:
 
 1. **Do NOT** create a public GitHub issue
-2. Email: devxashish@users.noreply.github.com
+2. Email: rajk4435689@gmail.com
 3. Include:
    - Description of the vulnerability
    - Steps to reproduce
