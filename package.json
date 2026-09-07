@@ -42,7 +42,7 @@
     "jszip": "^3.10.1",
     "react": "^19.2.7",
     "react-dom": "^19.2.7",
-    "react-router-dom": "^7.18.1"
+    "react-router-dom": "^7.18.3"
   },
   "devDependencies": {
     "@types/react": "^19.2.17",
